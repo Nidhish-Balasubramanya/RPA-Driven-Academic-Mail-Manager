@@ -1,4 +1,4 @@
-# VIT Campus Alerts
+# Academic Email Automation
 
 ## Smart Email Management System for Students using FastAPI, UiPath RPA, and LLMs
 
