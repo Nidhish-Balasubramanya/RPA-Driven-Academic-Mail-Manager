@@ -1,4 +1,4 @@
-# Academic Email Automation
+# RPA-Driven Academic Mail Manager
 
 ## Smart Email Management System for Students using FastAPI, UiPath RPA, and LLMs
 
